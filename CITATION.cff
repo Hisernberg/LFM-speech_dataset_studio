@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "LFM Speech Dataset Studio"
+message: "If you use this project, please cite it using this metadata."
+type: software
+authors:
+  - name: "SecureGPT Point"
+repository-code: "https://github.com/YOUR_USERNAME/lfm-speech-dataset-studio"
+abstract: "A local-first Bangla speech dataset workflow for LFM-Audio capability auditing, Liquid text repair-potential analysis, abstaining evidence routing, and schema-valid reviewable action cards."
+keywords:
+  - Liquid AI
+  - LFM
+  - Bangla speech
+  - ASR
+  - dataset studio
+  - reviewable action cards
+license: MIT
+version: "0.1.0"
+date-released: "2026-06-02"

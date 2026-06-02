@@ -1,0 +1,7 @@
+-r requirements-core.txt
+datasets
+transformers
+accelerate
+huggingface_hub
+torch
+safetensors

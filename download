@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+
+# Heavy experiment artifacts
+data/raw/
+data/cache/
+audio_cache/
+models/
+third_party/
+logs/
+results/*.parquet
+results/*.pt
+results/*.safetensors
+*.gguf
+*.wav
+*.zip
+
+# Keep lightweight examples
+!examples/*.csv
+!examples/*.json
+!examples/*.jsonl
+!examples/*.md
