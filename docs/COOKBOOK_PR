@@ -1,0 +1,32 @@
+# Cookbook PR Draft
+
+## Suggested title
+
+LFM Speech Dataset Studio: Bangla Speech Audit, Repair Potential, and Reviewable Action Cards
+
+## Suggested PR category
+
+Community Project
+
+## Suggested description
+
+This PR adds a community project demonstrating a local-first low-resource speech dataset workflow around Liquid models. The project audits LFM-Audio GGUF runner behavior, evaluates a Bangla ASR baseline, measures Liquid text-model transcript repair potential, applies abstaining evidence routing, and generates schema-valid reviewable JSONL action cards.
+
+The project is intentionally claim-safe: it does not report LFM-Audio Bangla ASR quality unless the local runner produces valid transcripts.
+
+## Why it fits
+
+- Demonstrates practical local-first deployment concerns.
+- Includes Liquid model usage.
+- Provides reproducible logs and artifacts.
+- Avoids unsupported model claims.
+- Covers safety and review-gating.
+
+## PR checklist
+
+- [ ] Add project link to community examples.
+- [ ] Include one-line summary.
+- [ ] Link to README.
+- [ ] Link to generated artifact zip or release.
+- [ ] Mention that LFM-Audio is treated as a capability audit.
+- [ ] Do not claim LFM-Audio ASR performance.
