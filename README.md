@@ -526,5 +526,5 @@ AI research engineer focused on low-resource NLP, speech, multimodal systems, an
 
 ## License
 
-This repository is released under the MIT License. External datasets, Hugging Face models, Liquid AI models, and GGUF assets are governed by their respective licenses.
+This repository is released under the MIT License. External datasets, Hugging Face models, Liquid AI models, and GGUF assets are governed by their respective licenses
 )
