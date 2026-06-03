@@ -525,3 +525,4 @@ AI research engineer focused on low-resource NLP, speech, multimodal systems, an
 
 This repository is released under the MIT License. External datasets, Hugging Face models, Liquid AI models, and GGUF assets are governed by their respective licenses
 )
+## community project : | LFM Speech Dataset Studio | Claim-safe Bangla speech dataset workflow for LFM-Audio capability auditing, BanglaASR baseline analysis, Liquid text repair-potential measurement, abstaining evidence routing, and schema-valid reviewable action cards. | [Code](https://github.com/Hisernberg/lfm-speech-dataset-studio) |
