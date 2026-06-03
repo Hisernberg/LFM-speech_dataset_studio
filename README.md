@@ -1,9 +1,6 @@
 ## LFM Speech Dataset Studio
 
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Project type](https://img.shields.io/badge/project-claim--safe%20speech%20dataset%20studio-purple.svg)](#claim-discipline)
-[![Kaggle](https://img.shields.io/badge/Kaggle-demo%20notebook-20BEFF.svg)](https://www.kaggle.com/code/nabidnur/banlfm-wavjepa-nat)
+[![Kaggle](https://img.shields.io/badge/Kaggle-demo%20notebook-20BEFF.svg)](https://www.kaggle.com/code/nabidnur/banlfm-wavjepa-nat?scriptVersionId=323998277)
 
 **LFM Speech Dataset Studio** is a local-first Bangla speech-dataset workflow for Liquid-model ecosystem experiments. It audits the local **LFM-Audio GGUF** runner, evaluates a baseline Bangla ASR front-end, measures Liquid text-model transcript-repair potential, applies abstaining evidence routing, and produces schema-valid reviewable assistant action cards.
 
