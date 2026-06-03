@@ -1,4 +1,4 @@
-# LFM Speech Dataset Studio
+# LFM Speech Dataset Studio  link : [https://www.kaggle.com/code/nabidnur/banlfm-wavjepa-nat] code
 
 **LFM Speech Dataset Studio** is a local-first Bangla speech-dataset workflow for Liquid-model ecosystem experiments.  
 It audits the local **LFM-Audio GGUF** runner, evaluates a baseline Bangla ASR front-end, measures Liquid text-model transcript-repair potential, applies abstaining evidence routing, and produces schema-valid reviewable assistant action cards.
