@@ -160,4 +160,4 @@ In the latest v5.1 Kaggle run, the LFM-Audio GGUF files downloaded and `llama-li
 
 **LFM Speech Dataset Studio: Bangla Speech Audit, Repair Potential, and Reviewable Action Cards**
 
-Recommended first PR type: **Community Project entry** linking to this full repository and generated artifacts.
+**Community Project entry**  author : Nabidnur abrar
